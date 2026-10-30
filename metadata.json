@@ -1,0 +1,6 @@
+{
+  "name": "OFFSLEEK Support Team",
+  "description": "Functional support ticket management workspace for OFFSLEEK employees to resolve school and faculty inquiries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
